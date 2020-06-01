@@ -1,0 +1,21 @@
+{
+  "name": "intern2k20cg",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dedupe": "^3.0.2",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.2",
+    "xlsx": "^0.16.1",
+    "xlsx-parse-json": "^3.1.0",
+    "xlsx-to-json": "^0.3.0"
+  }
+}

@@ -14,7 +14,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "multer": "^1.4.2",
-    "xlsx": "^0.16.1",
+    "xlsx": "^0.17.0",
     "xlsx-parse-json": "^3.1.0",
     "xlsx-to-json": "^0.3.0"
   }
